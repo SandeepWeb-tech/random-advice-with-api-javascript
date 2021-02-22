@@ -1,0 +1,25 @@
+.btn{
+    margin-top: 50px;
+}
+
+#displayAdvice{
+    border: 1px solid black;
+    height: 300px;
+    max-width: 500px;
+    box-shadow: 4px 4px 10px 10px  black;
+    border-radius: 30px;
+    color: red;
+    font-weight: bold;
+    padding: 40px 20px 40px 20px ;
+    margin: 20px;
+    font-size: 30px;
+
+}
+.info{
+    margin-top: 40px;
+}
+.info p{
+    color: brown;
+    font-size: 30px;
+    font-weight: bold;
+}
